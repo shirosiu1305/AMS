@@ -1,0 +1,133 @@
+.tieude{
+    border: 1px solid black;
+    border-radius: 5px 5px;
+    background-color: black;    
+    width: 1000px;
+    height: 50px;
+    text-decoration: none;
+    font-size: larger;
+   padding-left: 5px;
+   font-weight: 10px;
+}
+.tieude>a{ color: cadetblue;
+text-decoration: none;
+}
+.tieude>a:hover{
+    color: rgb(255, 217, 0);
+}
+.kmd{
+    border: 1px solid rgb(36, 36, 36);
+    background-color: rgb(29, 29, 29);
+    width: 800px;
+    height: 680px;
+    margin-bottom: 20px;
+}
+.col-26{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 25%;
+    float: left;   
+}
+.khong{    
+    width: 320px;
+    height: 65px;
+    background-color: rgba(0, 0, 0, 0.671);
+    position: absolute;
+    top: 435px;
+    padding: 0px;
+    vertical-align:inherit;
+}
+
+.tvh{
+    color: white;
+    border: 1px solid rgb(58, 58, 58);
+    width: 120px;
+    height: 40px;
+    background-color: rgb(87, 250, 96);
+    border-radius: 5px 5px;
+    box-shadow: 0 0 5px rgb(71, 70, 70);
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    font-size: 15px;
+}
+.tvh:hover{
+    background-color: rgb(165, 247, 73); 
+    
+}
+.xa{
+    color: white;
+    border: 1px solid rgb(58, 58, 58);
+    width: 95px;
+    height: 40px;
+    background-color: rgb(255, 106, 106);
+    border-radius: 5px 5px;
+    box-shadow: 0 0 5px rgb(71, 70, 70);
+    position: absolute;
+    top: 10px;
+    left: 180px;
+    font-size: 15px;
+}
+.xa:hover{
+    background-color: rgb(250, 71, 71); 
+    
+}
+.font{
+   
+    width: 63%;      
+    float: right;
+}
+.khung11{
+    border: 1px solid black;
+    background-color: rgb(51, 51, 51);
+    width: 430px;
+    height: 160px;
+    position: absolute;
+    top: 198px;
+    left: 350px;
+}
+.tt{
+    position: absolute;
+    top:10px ;
+    left:80px ;
+    border: 1px solid yellow    ;
+    background-color: yellow;
+    border-radius: 2px 2px;
+    width: 40px;
+    font-weight: 10px;
+}
+.tl{
+    position: absolute;
+    top:220px ;
+    left:355px ;
+}
+.tt >p a{
+    text-decoration: none;
+}
+.tl{
+    position: absolute;
+    top:220px ;
+    left:355px ;}
+.da{
+    position: absolute;
+    top:250px ;
+    left:355px ;
+}
+.thanhngang{
+    margin-left: 5px;
+    width: 780px;
+    height: 20px;
+    position: absolute;
+    top: 550px;
+    border: 1px solid black;
+    background-color: rgb(51, 51, 51);
+}
+.thanhbu{
+    margin-left: 5px;
+    width: 780px;
+    height: 150px;
+    position: absolute;
+    top: 590px;
+    border: 1px solid black;
+    background-color: rgb(51, 51, 51);
+}
